@@ -19,7 +19,7 @@ optimization and an interactive backtest.
 ```bash
 pip install -r requirements.txt
 python make_sample_data.py          # synthetic data, see data/README.md
-jupyter notebook notebooks/asset_management_takehome.ipynb
+jupyter notebook notebooks/core_scrypt.ipynb
 ```
 
 The stored cell outputs come from the original dataset. With the synthetic sample every cell runs, but the numbers

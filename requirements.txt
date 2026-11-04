@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+openpyxl
+jupyter
+# the interactive backtest at the end of the notebook uses tkinter (ships with most Python installers)
